@@ -66,7 +66,7 @@ AGGY Meme Coin ($AGGY) aims to make cryptocurrencies fun and accessible. Combini
 - **Corporate and Educational Partnerships**: Curriculum development and corporate training.
 
 ## Project Links
-- **Website**: [AGGY Official Website](#)
+- **Website**: [[AGGY Official Website](https://aggy.meme/)](#)
 - **Twitter**: [AGGY Twitter](#)
 - **Telegram**: [AGGY Telegram](#)
 - **Discord**: [AGGY Discord](#)
@@ -79,7 +79,9 @@ This document is for informational purposes only and does not constitute financi
 With AGGY as your guide, learning about crypto becomes a fun and rewarding adventure!
 
 ## How ICP Technology Will Be Used
-- **Scalability**: ICP's advanced technology allows AGGY to handle a large number of transactions quickly and efficiently, ensuring a seamless user experience.
-- **Security**: The decentralized nature of ICP enhances the security of the AGGY ecosystem, protecting user data and transactions.
-- **Smart Contracts**: Utilizing ICP’s smart contracts ensures transparent, automated, and secure execution of $AGGY token functionalities and community governance.
+- **Deployment on ICP**: AGGY Meme Coin is deployed on the Internet Computer (IC) blockchain.
+- **Secure Transactions**: IC will be used for secure and safe transactions.
+- **Staking and Farming**: IC supports staking, farming, and other DeFi activities.
+- **Future Products**: All future decentralized AGGY ecosystem products will be built on the IC blockchain.
+
 
