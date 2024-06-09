@@ -67,7 +67,7 @@ AGGY Meme Coin ($AGGY) aims to make cryptocurrencies fun and accessible. Combini
 
 ## Project Links
 - **Website**: [AGGY Official Website](https://aggy.meme/)
-- **Twitter**: [AGGY Twitter]((https://x.com/aggymeme)
+- **Twitter**: [AGGY Twitter](https://x.com/aggymeme)
 - **Telegram**: [AGGY Telegram](https://t.me/aggymeme)
 - **Canister**: [24gqi-uyaaa-aaaam-ab5gq-cai](https://dashboard.internetcomputer.org/canister/ch22p-eiaaa-aaaam-acpva-cai)
 
