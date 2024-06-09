@@ -66,8 +66,8 @@ AGGY Meme Coin ($AGGY) aims to make cryptocurrencies fun and accessible. Combini
 - **Corporate and Educational Partnerships**: Curriculum development and corporate training.
 
 ## Project Links
-- **Website**: [[AGGY Official Website](https://aggy.meme/)](#)
-- **Twitter**: [AGGY Twitter](#)
+- **Website**: [AGGY Official Website](https://aggy.meme/)
+- **Twitter**: [AGGY Twitter](https://aggy.meme/)(#)
 - **Telegram**: [AGGY Telegram](#)
 - **Discord**: [AGGY Discord](#)
 - **Reddit**: [AGGY Reddit](#)
