@@ -77,6 +77,6 @@ AGGY Meme Coin ($AGGY) aims to make cryptocurrencies fun and accessible. Combini
 - **Canister**: [24gqi-uyaaa-aaaam-ab5gq-cai](https://dashboard.internetcomputer.org/canister/ch22p-eiaaa-aaaam-acpva-cai)
 
 ## Disclaimer
-This document is for informational purposes only and does not constitute financial, investment, or legal advice. Please conduct your own research and consult with professionals before making any investment decisions.
+This document is for informational purposes only and does not constitute financial, investment, or legal advice. Please conduct your own research and consult with professionals before making any decisions.
 
 With AGGY as your guide, learning about crypto becomes a fun and rewarding adventure!
