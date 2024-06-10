@@ -10,7 +10,7 @@ AGGY Meme Coin ($AGGY) aims to make cryptocurrencies fun and accessible. Combini
    - **Sarcastic Wit**: AGGY’s humor keeps learning fun.
 
 2. **Interactive Learning Experiences**
-   - **Educational Games**: Interactive games teach crypto concepts.
+   - **Educational Mini-games**: Interactive mini-games teach crypto concepts.
    - **Quizzes and Challenges**: Regular quizzes encourage participation and offer rewards.
 
 3. **Comprehensive and Accessible Resources**
@@ -49,7 +49,7 @@ AGGY Meme Coin ($AGGY) aims to make cryptocurrencies fun and accessible. Combini
 
 ### Phase 2: Content and Ecosystem Expansion (Q1 2024 - Q4 2024)
 - Launch of animated series and NFT collection
-- Educational game and platform release
+- Educational mini-game and platform release
 
 ### Phase 3: Diversification and Growth (Q1 2025 - Q4 2025)
 - Comic book series launch and AGGY DAO creation
