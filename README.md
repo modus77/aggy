@@ -24,6 +24,12 @@ AGGY Meme Coin ($AGGY) aims to make cryptocurrencies fun and accessible. Combini
 5. **Real-World Applications and Products**
    - **NFT Collections**: Exclusive digital art and collectibles.
    - **Merchandise and Collectibles**: AGGY-themed products for fans.
+  
+## How ICP Technology Will Be Used
+- **Deployment on ICP**: AGGY Meme Coin is deployed on the Internet Computer (IC) blockchain.
+- **Secure Transactions**: IC will be used for secure and safe transactions.
+- **Staking and Farming**: IC supports staking, farming, and other DeFi activities.
+- **Future Products**: All future decentralized AGGY ecosystem products will be built on the IC blockchain.
 
 ## Tokenomics
 - **Token Name**: AGGY Meme Coin
@@ -61,9 +67,8 @@ AGGY Meme Coin ($AGGY) aims to make cryptocurrencies fun and accessible. Combini
 - **Voting and Proposals**: Community-driven decision-making.
 
 ## Partnership Programs
-- **Community Partnerships**: Workshops, webinars, and joint events.
+- **Community Partnerships**: Collabs, partnerships and joint events.
 - **Investor Partnerships**: Early access to investments and advisory roles.
-- **Corporate and Educational Partnerships**: Curriculum development and corporate training.
 
 ## Project Links
 - **Website**: [AGGY Official Website](https://aggy.meme/)
@@ -75,11 +80,3 @@ AGGY Meme Coin ($AGGY) aims to make cryptocurrencies fun and accessible. Combini
 This document is for informational purposes only and does not constitute financial, investment, or legal advice. Please conduct your own research and consult with professionals before making any investment decisions.
 
 With AGGY as your guide, learning about crypto becomes a fun and rewarding adventure!
-
-## How ICP Technology Will Be Used
-- **Deployment on ICP**: AGGY Meme Coin is deployed on the Internet Computer (IC) blockchain.
-- **Secure Transactions**: IC will be used for secure and safe transactions.
-- **Staking and Farming**: IC supports staking, farming, and other DeFi activities.
-- **Future Products**: All future decentralized AGGY ecosystem products will be built on the IC blockchain.
-
-
