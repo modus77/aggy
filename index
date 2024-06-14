@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>AGGY Meme Coin</title>
+  <script src="https://identity.ic0.app/ii.js"></script>
+  <script src="./connectWallet.js"></script>
+</head>
+<body>
+  <button id="connect-wallet" style="padding: 10px 20px; font-size: 16px; color: #fff; background-color: #007bff; border: none; border-radius: 5px; cursor: pointer;">Connect Wallet</button>
+</body>
+</html>
