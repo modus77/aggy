@@ -1,0 +1,45 @@
+const idlFactory = ({ IDL }) => {
+  return IDL.Service({
+    someCanisterMethod: IDL.Func([], [IDL.Text], []),
+  });
+};
+
+document.addEventListener("DOMContentLoaded", function() {
+  const connectWalletButton = document.getElementById('connect-wallet');
+
+  const connectPlugWallet = async () => {
+    try {
+      const isConnected = await window.ic.plug.isConnected();
+      if (!isConnected) {
+        await window.ic.plug.requestConnect();
+      }
+      const principalId = await window.ic.plug.sessionManager.getPrincipalId();
+      console.log('Connected to Plug Wallet with Principal ID:', principalId);
+
+      // Interacting with the canister
+      const actor = await window.ic.plug.createActor({
+        canisterId: 'ch22p-eiaaa-aaaam-acpva-cai',
+        interfaceFactory: idlFactory,
+      });
+
+      // Example interaction with the canister
+      const result = await actor.someCanisterMethod();
+      console.log('Canister result:', result);
+
+      alert('Connected to Plug Wallet with Principal ID: ' + principalId);
+    } catch (error) {
+      console.error('Failed to connect to Plug Wallet:', error);
+    }
+  };
+
+  if (connectWalletButton) {
+    connectWalletButton.addEventListener('click', connectPlugWallet);
+  }
+
+  // Automatically connect to Plug Wallet if installed
+  if (typeof window.ic !== 'undefined' && window.ic.plug) {
+    connectPlugWallet();
+  } else {
+    alert('Plug Wallet extension is not installed. Please install it from https://plugwallet.ooo/');
+  }
+});
